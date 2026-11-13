@@ -190,11 +190,11 @@ The following figures are reported in the project presentation and analytical no
 ### Monthly Sales Development
 ![Monthly Sales](images/sales_overview.png)
 
-### Discount Analysis
-![Discount Analysis](images/discount_analysis.png)
-
 ### Product Category Analysis
 ![Product Categories](images/category_analysis.png)
+
+### Discount Analysis
+![Discount Analysis](images/discount_analysis.png)
 
 ## Business Recommendations
 
