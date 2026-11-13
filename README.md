@@ -40,8 +40,6 @@ The datasets were combined using order IDs and product SKUs.
 
 **Data period:** January 2017 – March 14, 2018.
 
-> Note: Original datasets are not included in this public repository unless their publication and redistribution are authorized.
-
 ## Project Structure
 
 ```text
