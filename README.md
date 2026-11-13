@@ -185,6 +185,17 @@ The following figures are reported in the project presentation and analytical no
 - The product classification resulted in 14 categories.
 - iPhone and Storage are among the strongest categories in terms of product revenue.
 
+## Visual Insights
+
+### Monthly Sales Development
+![Monthly Sales](images/sales_overview.png)
+
+### Discount Analysis
+![Discount Analysis](images/discount_analysis.png)
+
+### Product Category Analysis
+![Product Categories](images/category_analysis.png)
+
 ## Business Recommendations
 
 The analysis supports a more selective and seasonal discount strategy rather than continuous discounts across the entire product range.
